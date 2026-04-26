@@ -36,15 +36,9 @@ An end-to-end Machine Learning system that demonstrates a decoupled architecture
 
 ---
 
-### 📊 GitHub Activity
-
-![Azien's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdhukka&show_icons=true&theme=transparent&hide_border=true)
-
----
-
 ### 📫 Connect with me
 
-* **Email:** [mail.mohammad.dhukka@gmail.com](mailto:mail.mohammad.dhukka@gmail.com)
+* **Email:** [mail.mohammaddhukka@gmail.com](mailto:mail.mohammaddhukka@gmail.com)
 * **GitHub:** [@mdhukka](https://github.com/mdhukka)
 
 ---
