@@ -21,7 +21,7 @@ I am currently pursuing my Diploma, with a clear trajectory toward a B.Tech in C
 
 ### 🚀 Key Project: Spam-Guard AI
 
-**[Live Application](https://spam-detection-azien.streamlit.app) | [GitHub Repository](https://github.com/mdhukka/spam-guard-ai)** *(Note: Verify your repo link)*
+**[Live Application](https://spam-detection-azien.streamlit.app) | [GitHub Repository](https://github.com/mdhukka/spam-detection-ml-system)** 
 
 An end-to-end Machine Learning system that demonstrates a decoupled architecture.
 * **The Build:** Integrated a **FastAPI** backend with a **Streamlit** frontend to handle real-time inference.
