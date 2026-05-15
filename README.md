@@ -1,8 +1,8 @@
 # Mohammad Dhukka (Azien)
 ### Computer Engineering Student | Implementation & Applied ML
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdhukka)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdhukka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdazien)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdazien)
 
 I am a 4th-semester Computer Engineering student focused on the intersection of software development and Machine Learning. I prioritize a "build-to-learn" methodology, focusing on turning technical concepts into functional, deployed applications.
 
