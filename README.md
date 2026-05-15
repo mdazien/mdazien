@@ -40,7 +40,7 @@ An end-to-end Machine Learning system that demonstrates a decoupled architecture
 
 ### 📫 Connect with me
 
-* **LinkedIn:** [linkedin.com/in/mdhukka](https://www.linkedin.com/in/mdhukka)
+* **LinkedIn:** [linkedin.com/in/mdazien](https://www.linkedin.com/in/mdazien)
 * **Email:** [mail.mohammaddhukka@gmail.com](mailto:mail.mohammaddhukka@gmail.com)
 * **GitHub:** [@mdazien](https://github.com/mdazien)
 
