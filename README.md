@@ -42,6 +42,6 @@ An end-to-end Machine Learning system that demonstrates a decoupled architecture
 
 * **LinkedIn:** [linkedin.com/in/mdhukka](https://www.linkedin.com/in/mdhukka)
 * **Email:** [mail.mohammaddhukka@gmail.com](mailto:mail.mohammaddhukka@gmail.com)
-* **GitHub:** [@mdhukka](https://github.com/mdhukka)
+* **GitHub:** [@mdhukka](https://github.com/mdazien)
 
 > "Focusing on the transition from understanding theoretical concepts to building production-ready systems."
