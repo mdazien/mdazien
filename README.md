@@ -1,47 +1,44 @@
 # Mohammad Dhukka (Azien)
-### Computer Engineering Student | Implementation & Applied ML
+### Computer Engineering Student | Focused on AI & Corporate Strategy
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdazien)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdazien)
 
-I am a 4th-semester Computer Engineering student focused on the intersection of software development and Machine Learning. I prioritize a "build-to-learn" methodology, focusing on turning technical concepts into functional, deployed applications.
+I am a Computer Engineering student (4th Semester Diploma) focused on the intersection of artificial intelligence and corporate strategy. Rather than viewing code purely as a technical exercise, I build applications to understand how scalable systems drive business efficiency and market value. 
 
-I am currently pursuing my Diploma, with a clear trajectory toward a B.Tech in CSE (Specialization in AI) to master the design of scalable, intelligent systems.
-
----
-
-### 🛠️ Technical Competencies
-
-* **Programming Languages:** Python (Intermediate), C (Intermediate), C++ (Foundation)
-* **Applied Frameworks & Libraries:** Scikit-Learn, FastAPI, Streamlit, Pandas
-* **DevOps & Version Control:** Git, GitHub, Cloud Deployment (Render, Streamlit Cloud)
-* **Core Strength:** Rapid tool adoption—the ability to research, learn, and integrate new technologies to meet specific project requirements and deployment standards.
+I am currently on a trajectory toward a B.Tech in CSE (Specialization in AI), with the ultimate goal of bridging the gap between hardcore technical architecture and executive-level strategic decision-making.
 
 ---
 
-### 🚀 Key Project: Spam-Guard AI
+### 🛠️ Core Competencies
 
-**[Live Application](https://spam-detection-azien.streamlit.app) | [GitHub Repository](https://github.com/mdhukka/spam-detection-ml-system)** 
-
-An end-to-end Machine Learning system that demonstrates a decoupled architecture.
-* **The Build:** Integrated a **FastAPI** backend with a **Streamlit** frontend to handle real-time inference.
-* **The Logic:** Implemented a **Multinomial Naive Bayes** model utilizing **TF-IDF vectorization**.
-* **The Deployment:** Orchestrated a cloud-based pipeline to move the model from a local environment to a public-facing URL.
+* **Technical Architecture:** Python, C, C++ (Foundation)
+* **Data & AI Systems:** Scikit-Learn, Pandas, FastAPI, Streamlit
+* **Deployment & Operations:** Git, Cloud Hosting (Render, Streamlit Cloud)
+* **Execution & Adaptability:** Rapid technology adoption—specializing in breaking down complex technical requirements into functional, deployable solutions.
 
 ---
 
-### 🎓 Academic & Career Path
+### 🚀 Featured Project: Spam-Guard AI
 
-* **Current Status:** Diploma in Computer Engineering (4th Semester)
-* **Academic Objective:** Building a robust foundation in Data Science and System Design.
-* **Career Goal:** To evolve from an application developer into a specialized Machine Learning Engineer.
+**[Live Application](https://spam-detection-azien.streamlit.app) | [GitHub Repository](https://github.com/mdhukka/spam-detection-ml-system)** An end-to-end Machine Learning system built to demonstrate how predictive models can automate data categorization and reduce operational friction.
+* **The Architecture:** Integrated a **FastAPI** backend with a **Streamlit** frontend to handle real-time user inputs.
+* **The Engine:** Implemented a **Multinomial Naive Bayes** model utilizing **TF-IDF vectorization** for high-accuracy text classification.
+* **The Outcome:** Orchestrated a complete cloud deployment pipeline, moving the theoretical model from a local environment into a public-facing, scalable application.
 
 ---
 
-### 📫 Connect with me
+### 🎓 Academic & Career Trajectory
+
+* **Current Baseline:** Diploma in Computer Engineering (4th Semester).
+* **Next Phase:** B.Tech in CSE (AI Specialization) with a heavy focus on data synthesis, financial literacy, and corporate case frameworks.
+* **Long-Term Objective:** Leveraging my foundational engineering knowledge to pivot into Technology Strategy Consulting and Corporate Development.
+
+---
+
+### 📫 Connect
 
 * **LinkedIn:** [linkedin.com/in/mdazien](https://www.linkedin.com/in/mdazien)
 * **Email:** [mail.mohammaddhukka@gmail.com](mailto:mail.mohammaddhukka@gmail.com)
-* **GitHub:** [@mdazien](https://github.com/mdazien)
 
-> "Focusing on the transition from understanding theoretical concepts to building production-ready systems."
+> "Translating complex technology into measurable strategic value."
