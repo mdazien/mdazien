@@ -22,7 +22,8 @@ I am actively bridging the gap between hardcore technical architecture (RAG, LLM
 
 ### 🚀 Strategic & Technical Projects
 
-#### 1. Competitive Market Intelligence: GenAI Observability (In Progress)
+#### 1. Competitive Market Intelligence: GenAI Observability
+**[Live Market Teardown (Notion)](https://app.notion.com/p/Market-Teardown-GenAI-Observability-Toolchain-Landscape-Mid-2026-34cc9aa7c0c28016b566e833096eca77?source=copy_link) | [GitHub Repository](https://github.com/mdazien/Genai-observability-landscape)**
 A strategic teardown of the enterprise Generative AI evaluation landscape.
 * **The Scope:** Mapping out top enterprise platforms (Maxim AI, LangSmith, Langfuse, Arize) to analyze market positioning.
 * **The Architecture:** Deconstructing product-led growth (PLG) mechanics, pricing models, and developer integration friction across SDKs and APIs.
