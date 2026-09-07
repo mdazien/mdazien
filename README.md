@@ -32,4 +32,4 @@ A small ML classifier built mainly as a hands-on exercise in taking something fr
 **Reach me**
 - [LinkedIn](https://www.linkedin.com/in/mdazien)
 - mail.mohammaddhukka@gmail.com
-- [Resume]([https://drive.google.com/file/d/1R5oZcxPnspxCbk9c1yIL_0icDnqRkgEl/view?usp=sharing](https://drive.google.com/file/d/1ul-pMx9oPPE3AMd2-PbxD4GlWWT1DVOn/view?usp=sharing))
+- [Resume](https://drive.google.com/file/d/1ul-pMx9oPPE3AMd2-PbxD4GlWWT1DVOn/view?usp=sharing)
