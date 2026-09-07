@@ -1,56 +1,35 @@
-# Hi, I'm Mohammad Dhukka (Azien) 👋
-### Computer Engineering Student | AI Architecture & GTM Strategy
+I'm a Computer Engineering student (final-year diploma) working at the intersection of AI and business strategy.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdazien)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdazien)
-[![Resume](https://img.shields.io/badge/Resume-FF4B4B?style=for-the-badge&logo=ReadMe&logoColor=white)](https://drive.google.com/file/d/1R5oZcxPnspxCbk9c1yIL_0icDnqRkgEl/view?usp=sharing)
+I don't think of code as purely technical — I use it to understand how AI systems actually create business value. I'm also deliberate about efficiency: if a tool, including AI itself, gets me to a correct, well-understood answer faster, I use it — the goal has never been doing things the hard way for its own sake, just doing them right. Most of my projects start with a market question ("how is this space actually structured, and where's the gap?") and end with something I built to test the answer.
 
-I am a Computer Engineering student (4th Semester Diploma) operating at the intersection of artificial intelligence and corporate strategy. Rather than viewing code purely as a technical exercise, I analyze markets and build applications to understand how scalable GenAI systems drive business efficiency, product-led growth (PLG), and enterprise value.
+Right now I'm trying to bridge two things that don't usually sit in the same person: the technical side of GenAI systems (RAG, LLM evaluation, agent workflows) and the strategic side of how businesses actually use that technology.
 
-I am actively bridging the gap between hardcore technical architecture (RAG, LLM Observability) and executive-level strategic execution (Founder's Office, GTM).
+**What I work with**
+- Strategy: competitive analysis, market teardowns, B2B positioning, SaaS funnel analysis
+- GenAI: RAG, LLM observability, agentic workflows, evaluation frameworks
+- Tools: Python, FastAPI, Render, Streamlit, Git
 
----
+**Projects (while learning analysis)**
 
-### 🛠️ Core Competencies
+**1. Market teardown — GenAI Observability landscape**
+[Notion writeup](https://app.notion.com/p/Market-Teardown-GenAI-Observability-Toolchain-Landscape-Mid-2026-34cc9aa7c0c28016b566e833096eca77?source=copy_link) · [GitHub](https://github.com/mdazien/Genai-observability-landscape)
 
-* **GTM & Corporate Strategy:** Competitive Intelligence, Market Teardowns, B2B Tech Positioning, SaaS Funnel Analysis.
-* **GenAI Architecture:** RAG (Retrieval-Augmented Generation), LLM Observability, Agentic Workflows, Evaluation Frameworks.
-* **Developer Infrastructure:** Python, API Integration (FastAPI), Cloud Deployment (Render, Streamlit), Git.
-* **Execution & Adaptability:** Rapid technology adoption—specializing in breaking down complex technical requirements into functional, deployable business solutions.
+A breakdown of the enterprise GenAI evaluation space — Maxim AI, LangSmith, Langfuse, Arize — looking at how they position themselves, price, and where developer friction shows up in their SDKs/APIs. Used AI tools where they made the process more efficient — moving faster through raw research and structuring findings — then cross-checked everything myself. Ended up finding a real gap in multi-agent tracing that most players aren't addressing well yet.
 
----
+**Projects (while learning programming)**
 
-### 🚀 Strategic & Technical Projects
+**2. Spam-Guard AI**
+[Live app](https://spam-detection-azien.streamlit.app/) · [GitHub](https://github.com/mdhukka/spam-detection-ml-system)
 
-#### 1. Competitive Market Intelligence: GenAI Observability
-**[Live Market Teardown (Notion)](https://app.notion.com/p/Market-Teardown-GenAI-Observability-Toolchain-Landscape-Mid-2026-34cc9aa7c0c28016b566e833096eca77?source=copy_link) | [GitHub Repository](https://github.com/mdazien/Genai-observability-landscape)**
-A strategic teardown of the enterprise Generative AI evaluation landscape.
-* **The Scope:** Mapping out top enterprise platforms (Maxim AI, LangSmith, Langfuse, Arize) to analyze market positioning.
-* **The Architecture:** Deconstructing product-led growth (PLG) mechanics, pricing models, and developer integration friction across SDKs and APIs.
-* **The Outcome:** Identifying critical market gaps in multi-agent tracing to structure outbound GTM frameworks.
+A small ML classifier built mainly as a hands-on exercise in taking something from a local script to a real, publicly hosted app. Used AI assistance where it was the more efficient path — getting the deployment pipeline right faster — then focused my own effort on understanding why it worked, not just that it did.
 
-#### 2. Spam-Guard AI
-**[Live Application](https://spam-detection-azien.streamlit.app) | [GitHub Repository](https://github.com/mdhukka/spam-detection-ml-system)** 
-An enterprise-ready ML pipeline built to automate communication moderation and reduce operational inefficiencies.
-* **The Architecture:** Architected a decoupled machine learning pipeline focusing on system reliability and edge-case evaluation.
-* **The Engine:** Designed evaluation frameworks to measure categorization accuracy, minimizing false-positive rates to ensure operational efficiency.
-* **The Outcome:** Orchestrated a complete cloud deployment pipeline, transitioning a local technical model into a public-facing, scalable digital asset.
+**Where I'm headed**
+- Now: finishing my Computer Engineering diploma
+- Next: a Strategy or Business Analyst internship
+- After that: an undergraduate degree with a strong Economics core, moving into technology strategy consulting
+- Long-term: private equity, with a specific interest in Sharia-compliant investment structures
 
----
-
-### 🎓 Academic & Career Trajectory
-
-* **Current Baseline:** Diploma in Computer Engineering (4th Semester).
-* **Immediate Objective:** Securing a high-leverage Founder's Office or GTM Internship at an early-stage B2B SaaS or AI startup.
-* **Next Phase:** B.Tech in CSE (AI Specialization) with a heavy focus on enterprise systems and corporate case frameworks.
-* **Long-Term Objective:** Pivoting into Technology Strategy Consulting and Corporate Development.
-
----
-
-### 📫 Connect
-
-* **LinkedIn:** [linkedin.com/in/mdazien](https://www.linkedin.com/in/mdazien)
-* **Email:** [mail.mohammaddhukka@gmail.com](mailto:mail.mohammaddhukka@gmail.com)
-* **Resume:** [View My GTM & Strategy Resume Here](https://drive.google.com/file/d/1R5oZcxPnspxCbk9c1yIL_0icDnqRkgEl/view?usp=sharing)
-
-> *"Translating complex technology into measurable strategic value."*
+**Reach me**
+- [LinkedIn](https://www.linkedin.com/in/mdazien)
+- mail.mohammaddhukka@gmail.com
+- [Resume](https://drive.google.com/file/d/1R5oZcxPnspxCbk9c1yIL_0icDnqRkgEl/view?usp=sharing)
